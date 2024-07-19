@@ -1,8 +1,6 @@
 # Design Document
 
-By SandeepImandi01
-
-# Video overview:https://youtu.be/eqkKIacVa74
+By SandeepImandi
 
 ## Scope:
 
